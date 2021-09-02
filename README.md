@@ -1,2 +1,2 @@
-# Rock-Paper-scissorS-game
+# Rock-Paper-scissors-game
 its a simple Rock paper scissor game
